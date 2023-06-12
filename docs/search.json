@@ -1,0 +1,13 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-06-12T15:42:45+10:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
